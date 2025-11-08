@@ -1,0 +1,1 @@
+#This is a Docker file which permits the execution of NGINX along with linking the index.html file and permitting the file with with correct permissions
