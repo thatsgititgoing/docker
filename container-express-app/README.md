@@ -1,0 +1,1 @@
+This is a basic Node.js Express application containerized with Docker, implementing a simple user registration API.
