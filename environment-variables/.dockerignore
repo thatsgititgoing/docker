@@ -1,0 +1,7 @@
+node_modules
+**/.env*
+
+# EXAMPLE - Will ignore files such as
+# .env.prod
+# .env.dev
+# env/prod/.env.prod
